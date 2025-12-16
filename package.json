@@ -10,11 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.11.0",
     "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1",
+    "firebase": "^12.6.0",
     "react": "^19.2.0",
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.2.0",
-    "react-router-dom": "^7.9.6"
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.10.0",
+    "react-whatsapp": "^0.3.0",
+    "use-local-storage": "^3.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
